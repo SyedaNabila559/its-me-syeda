@@ -17,11 +17,29 @@
 
 🤖 Fun fact: I’m a code worm — I love getting lost in lines of code and finding creative solutions from within the bugs 🐛💻
 
-# Connect with me:
-### 🌐 Connect with me:
+## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](  www.linkedin.com/in/nabila-bannay-khan-a38b57313)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SyedaNabila55?t=t6Jy8YaiSz78I8Uj_oh0lg&s=08)
+<p align="left">
+  <a href="## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-username/">
+    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/SyedaNabila55?t=t6Jy8YaiSz78I8Uj_oh0lg&s=08">
+    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png" alt="Twitter"/>
+  </a>
+</p>
+">
+    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/your-username">
+    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png" alt="Twitter"/>
+  </a>
+</p>
+
 
 # Languages and Tools:
 
