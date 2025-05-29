@@ -18,10 +18,10 @@
 🤖 Fun fact: I’m a code worm — I love getting lost in lines of code and finding creative solutions from within the bugs 🐛💻
 
 # Connect with me:
+### 🌐 Connect with me:
 
-![f7](https://github.com/user-attachments/assets/eb61c6f1-1bd3-47f2-8c72-2ab3c29feb83)  https://x.com/SyedaNabila55?t=t6Jy8YaiSz78I8Uj_oh0lg&s=08
-![f9](https://github.com/user-attachments/assets/24e202eb-01c3-4b74-adc4-4471525cf98d)  www.linkedin.com/in/nabila-bannay-khan-a38b57313
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](  www.linkedin.com/in/nabila-bannay-khan-a38b57313)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SyedaNabila55?t=t6Jy8YaiSz78I8Uj_oh0lg&s=08)
 
 # Languages and Tools:
 
