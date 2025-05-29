@@ -19,11 +19,11 @@
 
 # Connect with me:
 
-![f7](https://github.com/user-attachments/assets/eb61c6f1-1bd3-47f2-8c72-2ab3c29feb83)
- https://x.com/SyedaNabila55?t=t6Jy8YaiSz78I8Uj_oh0lg&s=08
+![f7](https://github.com/user-attachments/assets/eb61c6f1-1bd3-47f2-8c72-2ab3c29feb83)  https://x.com/SyedaNabila55?t=t6Jy8YaiSz78I8Uj_oh0lg&s=08
 
-![f9](https://github.com/user-attachments/assets/24e202eb-01c3-4b74-adc4-4471525cf98d)
- www.linkedin.com/in/nabila-bannay-khan-a38b57313
+
+![f9](https://github.com/user-attachments/assets/24e202eb-01c3-4b74-adc4-4471525cf98d)  www.linkedin.com/in/nabila-bannay-khan-a38b57313
+
 
 # Languages and Tools:
 
