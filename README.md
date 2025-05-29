@@ -31,14 +31,6 @@
     <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png" alt="Twitter"/>
   </a>
 </p>
-">
-    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your-username">
-    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png" alt="Twitter"/>
-  </a>
-</p>
 
 
 # Languages and Tools:
