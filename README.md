@@ -2,7 +2,7 @@
 
 
 
-             # Hi 👋, I'm Nabila!
+             Hi 👋, I'm Nabila!
 
          👨‍💻 I'm a Developer | 💡 Problem Solver | 🚀 Tech Enthusiast
 
@@ -19,19 +19,28 @@
 
 # Connect with me:
 
+![f7](https://github.com/user-attachments/assets/eb61c6f1-1bd3-47f2-8c72-2ab3c29feb83)
  https://x.com/SyedaNabila55?t=t6Jy8YaiSz78I8Uj_oh0lg&s=08
 
+![f9](https://github.com/user-attachments/assets/24e202eb-01c3-4b74-adc4-4471525cf98d)
  www.linkedin.com/in/nabila-bannay-khan-a38b57313
 
 # Languages and Tools:
 
 💻 Tech Stack:
+
 • ⚡ TypeScript & JavaScript
+
 • ⚛️ React.js & Next.js
-• 🌐 HTML5 & CSS3
+
+• 🌐 HTML5 & CSS
+
 • 🎨 Tailwind CSS
+
 • 🐍 Python
 
 📚 Currently Exploring:
+
 • 🧠 Agentic AI (Autonomous AI agents)
+
 • ☁️ Cloud Computing & Cloud-Native Technologies
