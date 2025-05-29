@@ -6,9 +6,6 @@ Hi 👋, I'm Nabila!
 
 Hi! I'm a passionate developer who loves turning ideas into reality through code. Whether it's building sleek websites, robust backends, or smart solutions — I live for the challenge. 💻✨
 
-Profile views
-437
-437
 
 🚀 Let's Develop Together!
 
@@ -24,4 +21,5 @@ Profile views
 
 
 Languages and Tools:
+
 css3 figma html5 illustrator javascript nextjs nodejs pandas photoshop python react tailwind typescript
